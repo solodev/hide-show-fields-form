@@ -1,13 +1,14 @@
 # hide-show-fields-form
+Functional forms are arguably the most important part of any lead generation strategy. Strategically hiding form fields until selected by a user can greatly improve user experience -- and boost your form's chances of being filled.
 
 
   		  
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Add a Cookies Bar for GDPR Compliance](https://www.solodev.com/blog/how-to-add-a-cookies-bar-for-gdpr-compliance.stml) article.
+For detailed instruction's, view Solodev's [How to Hide Form Fields Based Upon User Selection](https://www.solodev.com/blog/web-design/how-to-hide-form-fields-based-upon-user-selection.stml) article.
  
 ## Demo
   		  
-Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/c8bt9e5s/).
+Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/dpo07Ly5/).
 
 ## HTML
 
